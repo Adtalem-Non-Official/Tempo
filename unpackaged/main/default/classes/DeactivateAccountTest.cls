@@ -7,6 +7,6 @@ private class DeactivateAccountTest {
         Test.startTest();
         DeactivateAccount.deactivateById(acc.Id);
         Test.stopTest();
-        //Merge conflict
+        //Mergeconflict
     }
 }
