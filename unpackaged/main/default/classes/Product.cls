@@ -5,4 +5,6 @@ public class Product {
         Integer ab = 100;
 
     Integer a = 8;
+    
+    Integer b = 90;
 }
