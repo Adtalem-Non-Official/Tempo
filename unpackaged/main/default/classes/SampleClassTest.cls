@@ -14,6 +14,9 @@ public class SampleClassTest {
         // Call the method from the class
         Integer actualResult = SampleClass.addNumbers(input1, input2);
         
+        //Debug log
+        system.debug('Testing Class');
+        
         // Verify the result
         System.assertEquals(expectedResult, actualResult, 'The addNumbers method did not return the expected result.');
     }
