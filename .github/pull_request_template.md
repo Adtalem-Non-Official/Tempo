@@ -13,6 +13,12 @@ Please include a summary of the changes and the related issue. Also, include rel
 - [ ] My change requires a change to the existing documentation.
 - [ ] I have created/updated the documentation accordingly.
 - [ ] I have added/modified tests to cover my changes.
+
+- [ ] All new and existing tests passed.
+- [ ] All new and existing tests passed.
+- [ ] All new and existing tests passed.
+- [ ] All new and existing tests passed.
+- [ ] All new and existing tests passed.
 - [ ] All new and existing tests passed.
 
 ## WorkItem Link
